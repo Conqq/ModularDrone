@@ -1,0 +1,7 @@
+2021-Nov-30 15:22:51
+Computer name:	MARTYNOV-NB
+Number of cores used in calculation:	8
+Configuration name:	По умолчанию
+Project name:	Проект(1)
+
+Warnings on last iteration: 
