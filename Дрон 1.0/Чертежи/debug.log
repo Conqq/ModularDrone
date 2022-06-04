@@ -1,0 +1,283 @@
+[0604/002336.752:VERBOSE1:pref_proxy_config_tracker_impl.cc(184)] 000002035ED37330: set chrome proxy config service to 000002035ED37790
+[0604/002336.801:VERBOSE1:webrtc_internals.cc(118)] Could not get the download directory.
+[0604/002336.993:VERBOSE1:pref_proxy_config_tracker_impl.cc(184)] 00000203611DD220: set chrome proxy config service to 0000020361153C80
+[0604/002337.019:VERBOSE1:simple_index_file.cc(599)] Simple Cache Index is being restored from disk.
+[0604/002337.187:INFO:cpu_info.cc(49)] Available number of cores: 12
+[0604/002337.213:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Argon2018' log
+[0604/002337.213:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Argon2019' log
+[0604/002337.213:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Argon2020' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Argon2021' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Xenon2019' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Xenon2020' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Xenon2021' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Xenon2022' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Aviator' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Icarus' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Pilot' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Rocketeer' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Skydiver' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Cloudflare 'Nimbus2018' Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Cloudflare 'Nimbus2019' Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Cloudflare 'Nimbus2020' Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Cloudflare 'Nimbus2021' Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Log Server
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Log Server 2
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Yeti2018 Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Yeti2019 Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Yeti2020 Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Yeti2021 Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Yeti2022 Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Nessie2018 Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Nessie2019 Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Nessie2020 Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Nessie2021 Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Nessie2022 Log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Venafi Gen2 CT log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Sectigo 'Sabre' CT log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Sectigo 'Mammoth' CT log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Symantec 'Sirius' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: StartCom log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: WoSign log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Izenpe log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: CNNIC CT log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Venafi log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Symantec 'Vega' log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Certly.IO log
+[0604/002337.214:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Symantec log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Argon2018' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Argon2019' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Argon2020' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Argon2021' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Xenon2019' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Xenon2020' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Xenon2021' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Xenon2022' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Aviator' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Icarus' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Pilot' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Rocketeer' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Google 'Skydiver' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Cloudflare 'Nimbus2018' Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Cloudflare 'Nimbus2019' Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Cloudflare 'Nimbus2020' Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Cloudflare 'Nimbus2021' Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Log Server
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Log Server 2
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Yeti2018 Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Yeti2019 Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Yeti2020 Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Yeti2021 Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Yeti2022 Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Nessie2018 Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Nessie2019 Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Nessie2020 Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Nessie2021 Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: DigiCert Nessie2022 Log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Venafi Gen2 CT log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Sectigo 'Sabre' CT log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Sectigo 'Mammoth' CT log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Symantec 'Sirius' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: StartCom log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: WoSign log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Izenpe log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: CNNIC CT log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Venafi log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Symantec 'Vega' log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Certly.IO log
+[0604/002337.242:VERBOSE1:multi_log_ct_verifier.cc(65)] Adding CT log: Symantec log
+[0604/002337.256:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://engagement-static.autodesk.com/?prodId=AP-BTJ9NZXEJFSP-2-1
+[0604/002337.257:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://engagement-static.autodesk.com/?prodId=AP-BTJ9NZXEJFSP-2-1
+[0604/002338.275:VERBOSE1:proxy_resolution_service.cc(1364)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0604/002338.275:VERBOSE1:proxy_resolution_service.cc(1364)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0604/002339.148:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.autodesk.com/ArtifaktElement/css.css
+[0604/002339.148:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.autodesk.com/ArtifaktElement/css.css
+[0604/002339.343:VERBOSE1:v8_context_snapshot.cc(152)] A context is created from snapshot for main world
+[0604/002339.359:VERBOSE1:script_context.cc(89)] Created context:
+  extension id:           (none)
+  frame:                  00001118CAEA1C80
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0604/002339.360:VERBOSE1:script_context.cc(89)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0604/002339.361:VERBOSE1:dispatcher.cc(346)] Num tracked contexts: 1
+[0604/002339.460:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://web-sdk.aptrinsic.com/api/aptrinsic.js?a=AP-BTJ9NZXEJFSP-2-1
+[0604/002339.460:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://web-sdk.aptrinsic.com/api/aptrinsic.js?a=AP-BTJ9NZXEJFSP-2-1
+[0604/002340.046:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v1/configuration/AP-BTJ9NZXEJFSP-2-1
+[0604/002340.046:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v1/configuration/AP-BTJ9NZXEJFSP-2-1
+[0604/002340.576:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://web-sdk.aptrinsic.com/style.css?a=AP-BTJ9NZXEJFSP-2-1
+[0604/002340.576:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://web-sdk.aptrinsic.com/style.css?a=AP-BTJ9NZXEJFSP-2-1
+[0604/002340.711:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v1/inapp?p=AP-BTJ9NZXEJFSP-2-1&sv=0.44.0&v=AP-BTJ9NZXEJFSP-2-1-1654291420585-74929118&ai=1e625696-5424-45a4-ab2b-35b2f788646b&vt=2&s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&u=engagement-static.autodesk.com%2F%3FprodId%3DAP-BTJ9NZXEJFSP-2-1&sc=https%3A%2F%2F&ho=engagement-static.autodesk.com&pa=%2F&q=%3FprodId%3DAP-BTJ9NZXEJFSP-2-1&ha&gcx=%7B%7D&cb=1654291420589-8178
+[0604/002340.711:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v1/inapp?p=AP-BTJ9NZXEJFSP-2-1&sv=0.44.0&v=AP-BTJ9NZXEJFSP-2-1-1654291420585-74929118&ai=1e625696-5424-45a4-ab2b-35b2f788646b&vt=2&s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&u=engagement-static.autodesk.com%2F%3FprodId%3DAP-BTJ9NZXEJFSP-2-1&sc=https%3A%2F%2F&ho=engagement-static.autodesk.com&pa=%2F&q=%3FprodId%3DAP-BTJ9NZXEJFSP-2-1&ha&gcx=%7B%7D&cb=1654291420589-8178
+[0604/002340.711:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v1/command?p=AP-BTJ9NZXEJFSP-2-1&sv=0.44.0&v=AP-BTJ9NZXEJFSP-2-1-1654291420585-74929118&ai=1e625696-5424-45a4-ab2b-35b2f788646b&vt=2&s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&et=sessionInitialized&rf=null&sc=https%3A%2F%2F&ho=engagement-static.autodesk.com&pa=%2F&q=%3FprodId%3DAP-BTJ9NZXEJFSP-2-1&ha&sch=320&scw=650&pt&ep=%7B%22gco%22%3A%7B%22product_contact_preference_unsubscribed%22%3A%22False%22%2C%22product_product_language%22%3A%22ru-RU%22%2C%22product_entitlement_usage%22%3A%22User%22%2C%22product_entitlement_model%22%3A%22User%22%2C%22product_build_id%22%3A%22261234000%22%2C%22product_adp_session_id%22%3A%22acf79aeb-9603-4974-b6ba-0822272c3070%22%2C%22product_dt%22%3A%221654291414309%22%7D%7D&cb=1654291420591-2349
+[0604/002340.711:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v1/command?p=AP-BTJ9NZXEJFSP-2-1&sv=0.44.0&v=AP-BTJ9NZXEJFSP-2-1-1654291420585-74929118&ai=1e625696-5424-45a4-ab2b-35b2f788646b&vt=2&s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&et=sessionInitialized&rf=null&sc=https%3A%2F%2F&ho=engagement-static.autodesk.com&pa=%2F&q=%3FprodId%3DAP-BTJ9NZXEJFSP-2-1&ha&sch=320&scw=650&pt&ep=%7B%22gco%22%3A%7B%22product_contact_preference_unsubscribed%22%3A%22False%22%2C%22product_product_language%22%3A%22ru-RU%22%2C%22product_entitlement_usage%22%3A%22User%22%2C%22product_entitlement_model%22%3A%22User%22%2C%22product_build_id%22%3A%22261234000%22%2C%22product_adp_session_id%22%3A%22acf79aeb-9603-4974-b6ba-0822272c3070%22%2C%22product_dt%22%3A%221654291414309%22%7D%7D&cb=1654291420591-2349
+[0604/002340.713:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&p=AP-BTJ9NZXEJFSP-2-1
+[0604/002340.713:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&p=AP-BTJ9NZXEJFSP-2-1
+[0604/002340.714:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/api/v1/feature/client?p=AP-BTJ9NZXEJFSP-2-1&sv=0.44.0&v=AP-BTJ9NZXEJFSP-2-1-1654291420585-74929118&ai=1e625696-5424-45a4-ab2b-35b2f788646b&vt=2&s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&wsv=0.44.0&cb=1654291420713-7789
+[0604/002340.714:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/api/v1/feature/client?p=AP-BTJ9NZXEJFSP-2-1&sv=0.44.0&v=AP-BTJ9NZXEJFSP-2-1-1654291420585-74929118&ai=1e625696-5424-45a4-ab2b-35b2f788646b&vt=2&s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&wsv=0.44.0&cb=1654291420713-7789
+[0604/002340.715:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&p=AP-BTJ9NZXEJFSP-2-1
+[0604/002340.715:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&p=AP-BTJ9NZXEJFSP-2-1
+[0604/002341.276:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://web-sdk.aptrinsic.com/images/dialog-close.svg
+[0604/002341.276:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://web-sdk.aptrinsic.com/images/dialog-close.svg
+[0604/002341.276:VERBOSE1:loader_util.cc(45)] To buffer: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&p=AP-BTJ9NZXEJFSP-2-1
+[0604/002341.278:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Bold.woff2
+[0604/002341.278:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Bold.woff2
+[0604/002341.279:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Regular.woff2
+[0604/002341.279:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Regular.woff2
+[0604/002341.350:VERBOSE1:loader_util.cc(45)] To buffer: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1-1654289001975-62765411&p=AP-BTJ9NZXEJFSP-2-1
+[0604/002341.401:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Bold.woff2
+[0604/002341.401:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Bold.woff2
+[0604/002341.402:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Regular.woff2
+[0604/002341.402:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Regular.woff2
+[0604/002341.923:VERBOSE1:statistics_recorder.cc(410)] Collections of all histograms
+Histogram: ChildProcess.FieldTrials.CreateFromShmemSuccess recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.CollectContextGraphicsInfo recorded 1 samples, mean = 22.0 (flags = 0x1)
+0   ... 
+20  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+24  ... 
+
+Histogram: GPU.EGLDisplayType recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: GPU.FenceSupport recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.GLImplementation recorded 1 samples, mean = 5.0 (flags = 0x1)
+0  ... 
+5  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+6  ... 
+
+Histogram: GPU.GpuGeneration recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: GPU.InitializeOneOffMediumTime recorded 1 samples, mean = 196.0 (flags = 0x1)
+0    ... 
+171  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+210  ... 
+
+Histogram: GPU.MaxMSAASampleCount recorded 1 samples (flags = 0x1)
+4  ------------------------------------------------------------------------O (1 = 100.0%)
+
+Histogram: GPU.Sandbox.InitializedSuccessfully recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: GPU.TextureR16Ext_LuminanceF16 recorded 1 samples, mean = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+3  ... 
+
+Histogram: GPU.TextureRG recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: LibraryLoader.LoadNativeLibraryWindows recorded 3 samples, mean = 0.3 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 66.7%)
+1  ------------------------------------O                                     (1 = 33.3%) {66.7%}
+2  ... 
+
+Histogram: ThreadPool.DetachDuration.ContentChild.Background recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.DetachDuration.ContentChild.Foreground recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.HeartbeatLatencyMicroseconds.ContentChild.BackgroundTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.HeartbeatLatencyMicroseconds.ContentChild.BackgroundTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.HeartbeatLatencyMicroseconds.ContentChild.UserBlockingTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.HeartbeatLatencyMicroseconds.ContentChild.UserBlockingTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.HeartbeatLatencyMicroseconds.ContentChild.UserVisibleTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.HeartbeatLatencyMicroseconds.ContentChild.UserVisibleTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumActiveWorkers.ContentChild.Background recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumActiveWorkers.ContentChild.Foreground recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumTasksBeforeDetach.ContentChild.Background recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumTasksBeforeDetach.ContentChild.Foreground recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumTasksBetweenWaits.ContentChild.Background recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumTasksBetweenWaits.ContentChild.Foreground recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumTasksRunWhileQueuing.ContentChild.BackgroundTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumTasksRunWhileQueuing.ContentChild.BackgroundTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumTasksRunWhileQueuing.ContentChild.UserBlockingTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumTasksRunWhileQueuing.ContentChild.UserBlockingTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumTasksRunWhileQueuing.ContentChild.UserVisibleTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumTasksRunWhileQueuing.ContentChild.UserVisibleTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumWorkers.ContentChild.Background recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.NumWorkers.ContentChild.Foreground recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.TaskLatencyMicroseconds.ContentChild.BackgroundTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.TaskLatencyMicroseconds.ContentChild.BackgroundTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.TaskLatencyMicroseconds.ContentChild.UserBlockingTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.TaskLatencyMicroseconds.ContentChild.UserBlockingTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.TaskLatencyMicroseconds.ContentChild.UserVisibleTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: ThreadPool.TaskLatencyMicroseconds.ContentChild.UserVisibleTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Windows.CreateThreadTime recorded 5 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (5 = 100.0%)
+1  ... 
+
+
